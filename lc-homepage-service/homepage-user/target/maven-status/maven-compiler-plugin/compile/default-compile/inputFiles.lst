@@ -1,0 +1,12 @@
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\client\CourseClient.java
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\vo\CreateUserRequest.java
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\entity\HomepageUser.java
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\vo\UserCourseInfo.java
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\dao\HomepageUserCourseDao.java
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\entity\HomepageUserCourse.java
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\HomepageUserApplication.java
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\controller\HomepageUserController.java
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\service\impl\UserServiceImpl.java
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\client\CourseClientHystrix.java
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\dao\HomepageUserDao.java
+F:\GIT_CODE\JAVA_CODE\lc-homepage-spring-cloud\lc-homepage-service\homepage-user\src\main\java\com\lc\homepage\service\IUserService.java
